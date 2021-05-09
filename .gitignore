@@ -1,0 +1,3 @@
+venv
+myapi/cowin_api.py
+cowin_app/db.sqlite3
