@@ -1,3 +1,3 @@
 venv
-myapi/cowin_api.py
 cowin_app/db.sqlite3
+myapi/cowin_api.py
